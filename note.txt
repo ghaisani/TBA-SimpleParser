@@ -1,0 +1,7 @@
+File "Tubes TBA Tahap 2 Kelompok 11 IF3902.cpp" berisi source code tubes TBA yang dapat dijalankan melalui compiler c++ general.
+
+Sedangkan file "Tubes TBA-2 Kel11-IF3902.rar" berisi file source code tubes TBA yang dijalankan dengan CodeBlocks.
+
+Untuk executable file karena di codeblocks tidak ada .exe maka sebagai penggantinya dapat diakses di http://cpp.sh/9yn3i
+
+Terima Kasih :))
